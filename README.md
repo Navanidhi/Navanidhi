@@ -1,6 +1,7 @@
 ### Hi there 👋,I am Navanidhi S Shetty
 - 🌱 I’m currently learning Java and DSA
 - 😄 Pronouns: She
+- - 🔭 I’m currently working on Projects and github
 <!--
 **Navanidhi/Navanidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
