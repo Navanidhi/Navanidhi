@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="center">A computer science student who wants to dabble in all CS fields.</h3>
  <img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7"> 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">
-<<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navanishi&label=Profile%20views&color=0e75b6&style=flat" alt="Nidhi" /> </p>
+<!-- <<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navanishi&label=Profile%20views&color=0e75b6&style=flat" alt="Nidhi" /> </p> -->
 
 -🔭 I'm a final year student pursuing a Bachelor's degree in Computer Science Engineering.<br>
 
