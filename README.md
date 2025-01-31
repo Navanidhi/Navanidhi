@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 </diV>
  <h1 align="center">Hi!, I'm Navanidhi S Shetty</h1>
  <h3 align="center"> I'm a final year student pursuing a Bachelor's degree in Computer Science Engineering</h3> 
- <h3>🔹 Skilled in React.js, Node.js, Express.js, MongoDB, Tailwind CSS <br>
+ <p>🔹 Skilled in React.js, Node.js, Express.js, MongoDB, Tailwind CSS <br>
 🔹 Experience in Backend Development and Full Stack Projects   <br>
-🔹 Passionate about AI, NLP, and ML (Worked on Automated Essay Grading using BERT)  <br></h3>
+🔹 Passionate about AI, NLP, and ML (Worked on Automated Essay Grading using BERT)  <br></p>
  <img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7"> 
 <!-- <img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif"> -->
 
